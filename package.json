@@ -1,8 +1,11 @@
 {
   "name": "jest-another-rpg",
   "version": "1.0.0",
-  "description": "A command-line RPG—battle against a series of enemies whose health & stats can be sustained by taking a potion",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -10,14 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/kierstenv/jest-another-RPG.git"
   },
-  "keywords": [
-    "RPG",
-    "battle",
-    "OOP",
-    "TDD",
-    "CLI"
-  ],
-  "author": "kierstenv",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kierstenv/jest-another-RPG/issues"
